@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='template_to_pdf',
-    version='1.0.01',
+    version='1.1',
     description='Converts jinja2 templates to HTML and PDF',
     author='Luke Shiner',
     author_email='luke@lukeshiner.com',
